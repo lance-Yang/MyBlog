@@ -1,6 +1,6 @@
 {
   "private": true,
-  "homepage": "https://github.com/lance-Yang/MyBlog",
+  "homepage": "https://lance-yang.github.io/lance-Yang/MyBlog",
   "scripts": {
     "start": "umi dev",
     "build": "umi build",
