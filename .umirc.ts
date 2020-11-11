@@ -8,6 +8,6 @@ export default defineConfig({
   // routes: [
   //   { path: '/', component: '@/pages/index' },
   // ],
-  base: '/myblog/',
-  publicPath: '/myblog/',
+  base: '/',
+  publicPath: '/',
 });
