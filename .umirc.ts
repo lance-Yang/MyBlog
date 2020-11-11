@@ -4,6 +4,9 @@ export default defineConfig({
   nodeModulesTransform: {
     type: 'none',
   },
+  history: {
+    type: 'hash',
+  },
   plugins: [],
   // routes: [
   //   { path: '/', component: '@/pages/index' },
