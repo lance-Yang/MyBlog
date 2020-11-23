@@ -13,5 +13,5 @@ export default defineConfig({
   // ],
   base: '/MyBlog/',
   publicPath: '/MyBlog/',
-  outputPath: '/dist',
+  // outputPath: '/dist',
 });
