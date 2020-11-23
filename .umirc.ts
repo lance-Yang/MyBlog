@@ -11,7 +11,7 @@ export default defineConfig({
   // routes: [
   //   { path: '/', component: '@/pages/index' },
   // ],
-  base: '/MyBlog/',
-  publicPath: 'https://lance-yang.github.io/lance-Yang/MyBlog',
-  outputPath: './dist',
+  base: '/',
+  // publicPath: 'https://lance-yang.github.io/lance-Yang/MyBlog',
+  // outputPath: './dist',
 });
