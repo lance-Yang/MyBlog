@@ -12,6 +12,5 @@ export default defineConfig({
   //   { path: '/', component: '@/pages/index' },
   // ],
   base: '/MyBlog/',
-  publicPath: '/MyBlog/',
-  // outputPath: '/dist',
+  publicPath: './',
 });
